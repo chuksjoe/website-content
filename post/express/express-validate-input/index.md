@@ -23,7 +23,7 @@ app.post('/form', (req, res) => {
 })
 ```
 
-How do you server-side validate those results to make sure
+How do your server-side validate those results to make sure
 
 - name is a string of at least 3 characters?
 - email is a real email?
